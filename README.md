@@ -35,18 +35,24 @@ Backend
 student-portfolio/
 │
 ├── backend/
-│   └── server.js        # Backend server and API logic
+│   └── server.js 
+
 │
 ├── frontend/
+
 │   ├── src/
-│   │   ├── App.js       # Main React component
-│   │   └── App.css      # Styling
-│   └── package.json     # Frontend dependencies
+
+│   │   ├── App.js  
+
+│   │   └── App.css      
+│   └── package.json     
 ⚙️ Installation & Setup
 
 1️⃣ Clone the Repository
 git clone https://github.com/shivanigaddala1019/student-portfolio.git
 cd student-portfolio
+
+
 2️⃣ Backend Setup
 cd backend
 npm install
