@@ -6,10 +6,15 @@ A full-stack web application designed to efficiently manage student profiles, bu
 
 🚀 Key Features
 	•	Centralized dashboard to view multiple student profiles
+	
 	•	Dynamic dropdown selection for quick access to records
+	
 	•	Interactive interface to edit student details
+	
 	•	Secure and efficient data persistence
+	
 	•	Modern Glassmorphism-based UI design
+	
 	•	Real-time updates via API integration
 
 ⸻
