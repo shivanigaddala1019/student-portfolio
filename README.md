@@ -27,19 +27,6 @@ A full-stack web application built using **React.js** (frontend) and **Node.js +
 
 ---
 
-## 📂 Project Structure
-student-portfolio/
-│
-├── backend/
-│   └── server.js        # Backend server & API logic
-│
-├── frontend/
-│   ├── src/
-│   │   ├── App.js       # Main React component
-│   │   └── App.css      # Styling
-│   └── package.json     # Frontend dependencies
----
-
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
