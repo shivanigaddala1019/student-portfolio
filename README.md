@@ -1,58 +1,52 @@
-🎓 Student Portfolio Management System
+# 🎓 Student Portfolio Management System
 
-A full-stack web application designed to efficiently manage student profiles, built using React.js for the frontend and Node.js with Express.js for the backend. The system enables users to view, update, and maintain student information through an intuitive and responsive interface.
+A full-stack web application built using **React.js** (frontend) and **Node.js + Express.js** (backend) to manage student profiles efficiently. The application provides a user-friendly interface to view, edit, and update student information in real time.
 
-⸻
+---
 
-🚀 Key Features
-	•	Centralized dashboard to view multiple student profiles
-	
-	•	Dynamic dropdown selection for quick access to records
-	
-	•	Interactive interface to edit student details
-	
-	•	Secure and efficient data persistence
-	
-	•	Modern Glassmorphism-based UI design
-	
-	•	Real-time updates via API integration
+## 🚀 Features
 
-⸻
+- 📋 View multiple student profiles  
+- 🔽 Select a student from dropdown  
+- ✏️ Edit student details  
+- 💾 Save updated information  
+- 🎨 Modern UI with Glassmorphism design  
+- ⚡ Real-time updates using API  
 
-🛠️ Technology Stack
+---
 
-Frontend
-	•	React.js
-	•	CSS (Glassmorphism UI for modern aesthetics)
+## 🛠️ Tech Stack
 
-Backend
-	•	Node.js
-	•	Express.js
+### Frontend
+- React.js  
+- CSS (Glassmorphism UI)
 
-⸻
+### Backend
+- Node.js  
+- Express.js  
 
-📂 Project Structure
+---
+
+## 📂 Project Structure
 student-portfolio/
 │
 ├── backend/
-│   └── server.js 
-
+│   └── server.js        # Backend server & API logic
 │
 ├── frontend/
-
 │   ├── src/
+│   │   ├── App.js       # Main React component
+│   │   └── App.css      # Styling
+│   └── package.json     # Frontend dependencies
+---
 
-│   │   ├── App.js  
+## ⚙️ Installation & Setup
 
-│   │   └── App.css      
-│   └── package.json     
-⚙️ Installation & Setup
+### 1️⃣ Clone the Repository
 
-1️⃣ Clone the Repository
+```bash
 git clone https://github.com/shivanigaddala1019/student-portfolio.git
 cd student-portfolio
-
-
 2️⃣ Backend Setup
 cd backend
 npm install
